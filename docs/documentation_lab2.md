@@ -67,7 +67,10 @@
 - Пример вызова: perimeter(3)->18.8495559
 ---
 # История измененя проекта
-65a9578 (HEAD -> new_features_558261) добавлены описания функций с примерами вызова
+5a3f406 (HEAD -> new_features_558261) исправлена ошибка
+313061e (origin/new_features_558261) ...
+a80c3c1 ..
+65a9578 добавлены описания функций с примерами вызова
 566230d исправлена опесатка в слове параметр
 cd484b3 add comment block to triangle.py
 5aedd65 add comment block to square.py
@@ -75,5 +78,3 @@ eb3a1ea add comment block to rectangle.py
 ce703a7 add comment block to rectangle.py
 5dc97ca добавлено общее описание решния
 9f06ef0 создан файл documentation.md
-7e4c456 исправлена ошибка в  rectangle.py
-2ea5027 добавлен файл triangle.py
