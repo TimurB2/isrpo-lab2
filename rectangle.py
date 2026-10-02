@@ -6,7 +6,7 @@ def area(a, b):
         b(float): длина
         Возвращаемое значение(float): площадь прямоугольника с длиной a и шириной b
     '''
-    return a * b 
+    return a * b
 
 def perimeter(a, b): 
         '''
